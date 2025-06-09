@@ -1,15 +1,12 @@
-[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://www.youtube.com/watch?v=hT_nvWreIhg)
+[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)]
 <h1 align="center">Hi 👋, I'm Priyanshu Das</h1>
 <h3 align="center">A upcoming developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVkNTJzaGw5Ym16OGg2dHVyZWhlNnNzY29sNXJsenJ5YmszM3Z5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepriyanshudas&label=Profile%20views&color=0e75b6&style=flat" alt="thepriyanshudas" /> </p>
-- 🔭 I’m currently learning [Data Structure & Algorithm](https://www.youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01)
 
-- 💬 Ask me about **How's my day going**
+- 💬 Ask me about **How I debug my code**
 
 - 📫 How to reach me **priyanshudas030@gmail.com**
-
-- ⚡ Fun fact **I never give up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
