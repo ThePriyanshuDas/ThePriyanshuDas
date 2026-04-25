@@ -1,0 +1,29 @@
+name: Auto Contribution
+
+on:
+  schedule:
+    - cron: "0 4,10,16,20 * * *"  # 4 times daily (UTC)
+  workflow_dispatch:  # allows manual run
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Make update
+        run: |
+          echo "Update at $(date)" >> activity_log.txt
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "ThePriyanshuDas"
+          git config --global user.email "priyanshudas030@gmail.com"
+          git add activity_log.txt
+          git commit -m "Auto update: $(date)" || echo "No changes"
+
+      - name: Push changes
+        run: |
+          git push
