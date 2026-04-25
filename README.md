@@ -39,7 +39,12 @@
   <img src="https://komarev.com/ghpvc/?username=priyanshudas&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<<<<<<< HEAD
 - update README.md
 <!-- update README.md -->
 <!-- update README.md -->
+<!-- update README.md -->
+=======
+>>>>>>> 936b19d65c980aab84e60cbe05a19daf6c2b59ff
+
 <!-- update README.md -->
